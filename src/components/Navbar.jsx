@@ -68,7 +68,7 @@ const Navbar = () => {
                         } group flex rounded-md items-center w-full px-2 py-2 text-sm`}
                         disabled 
                       >
-                        {user.name}
+                        Hello, {user.name}
                       </button>
                     )}
                   </Menu.Item>
