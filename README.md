@@ -1,6 +1,7 @@
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/kanhaiya8608/v4-main/main/src/images/logo.png" width="100" />
 </div>
+
 # KMDB Movie Details App
 
 This is a React application that displays details about a movie fetched from The Movie Database (TMDB) API. Users can watch trailers, add movies to their favorites list, and add them to their watchlist. The app also supports dark mode.
